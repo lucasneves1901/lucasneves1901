@@ -49,58 +49,6 @@ I am currently pursuing a postgraduate degree in **Software Engineering with Art
 
 ---
 
-## 🚀 Project Roadmap
-
-I plan to create a collection of practical Quality Engineering projects focused on automation, API testing, performance, databases, BDD, and end-to-end testing.
-
-These projects will be developed as part of my ongoing learning and professional growth. Each repository will include documentation, examples, test scenarios, and practical testing concepts.
-
-### 🌐 Web Automation
-
-#### `qa-web-automation-playwright`
-
-A web automation project using Playwright, focused on modern browser testing, reusable components, test organization, reporting, and maintainable automation practices.
-
-#### `qa-web-automation-selenium`
-
-A web automation project using Selenium and Java, covering browser automation, Page Object Model design, test execution, and automation framework practices.
-
-### 🔌 API Testing
-
-#### `api-testing-postman`
-
-An API testing project using Postman, covering collections, environments, assertions, negative scenarios, test data, and automated execution.
-
-#### `api-testing-playwright`
-
-An API testing project using Playwright, demonstrating request validation, response assertions, authentication, test data, and API automation workflows.
-
-### 🥒 BDD and Test Design
-
-#### `bdd-cucumber-tests`
-
-A Behavior-Driven Development project using Cucumber and Gherkin to demonstrate readable test scenarios, collaboration, and automated acceptance tests.
-
-### ⚡ Performance Testing
-
-#### `performance-testing-k6`
-
-A performance testing project using k6, focused on load testing, performance scenarios, thresholds, test scripting, and results analysis.
-
-### 🗄️ Database Testing
-
-#### `sql-for-testers`
-
-A practical SQL project for QA professionals, covering queries, filtering, joins, data validation, and database testing fundamentals.
-
-### 🛒 End-to-End Quality Engineering
-
-#### `qa-ecommerce-project`
-
-An end-to-end Quality Engineering project based on an e-commerce application, combining test planning, web automation, API testing, database validation, defect management, and quality reporting.
-
----
-
 ## 🧰 Technologies and Tools
 
 ### Test Automation
